@@ -46,7 +46,6 @@ $grey : #535353;
   }
   
   .footer {
-	position: absolute;
 	bottom: 0;
 	width: 100%;
 	height: 60px;
@@ -103,8 +102,12 @@ $grey : #535353;
   }
   
   .row{
-	margin: 0;
-  }
+	margin: 0 auto;
+	}
+	
+	.img-fluid{
+		width: 80px;
+	}
   
   /*# sourceMappingURL=mon_site.css.map */
   
